@@ -100,7 +100,7 @@ Interactive Coffee Sales Analytics dashboard developed using Power BI to analyze
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaishnavibhadsale&show_icons=true&theme=default" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavibhadsale&theme=default" height="180"/> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavibhadsale&theme=default" height="180"/> </p>
 
 ---
 
