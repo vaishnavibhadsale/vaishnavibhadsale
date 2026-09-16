@@ -107,7 +107,7 @@ Interactive Coffee Sales Analytics dashboard developed using Power BI to analyze
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="vaishnavibhadsale">
+  <a href="https://www.linkedin.com/in/vaishnavi-bhadsale-ab9b50284/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:vaishnavibhadsale@gmail.com">
