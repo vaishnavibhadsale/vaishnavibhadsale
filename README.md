@@ -3,6 +3,7 @@
 ### BBA(CA) Graduate | Aspiring Data Analyst | Business Analytics Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&duration=2500&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python;Turning+Data+into+Meaningful+Insights;Building+Data+Analytics+Projects">
+
 ---
 
 ## 👩‍💻 About Me
