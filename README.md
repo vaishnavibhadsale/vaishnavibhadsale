@@ -44,9 +44,9 @@ Interactive HR dashboard created to analyze employee and workforce data.
 
 ---
 
-### 📊 Business Analytics Dashboard — Power BI
+### 📊 Coffee Sales Analytics Dashboard — Power BI
 
-Interactive business dashboard developed using Power BI to analyze data and present meaningful business insights.
+Interactive Coffee Sales Analytics dashboard developed using Power BI to analyze data and present meaningful business insights.
 
 **Key Areas**
 
@@ -61,6 +61,7 @@ Interactive business dashboard developed using Power BI to analyze data and pres
 * Power BI
 * Excel
 * Data Analysis
+* DAX
 
 ---
 
@@ -99,10 +100,7 @@ Interactive business dashboard developed using Power BI to analyze data and pres
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavibhadsale&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavibhadsale&theme=default" height="180"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" height="180"/> </p>
 
 ---
 
