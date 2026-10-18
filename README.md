@@ -1,4 +1,4 @@
-# Hello 👋, I'm Vaishnavi Narendra Bhadale
+# Hello 👋, I'm Vaishnavi Narendra Bhadsale
 
 ### BBA(CA) Graduate | Aspiring Data Analyst | Business Analytics Enthusiast
 
